@@ -16,7 +16,7 @@ There are four R examples (one on each theme), as well as a fifth that integrate
                       [International](https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/Intl_Notes.pdf?attredirects=0),
                       [Oil Prices and Volatility](https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/WTI_Notes.pdf?attredirects=0)
 
-I made these videos for this course:                   
+**I made these videos for this course:**                   
 * [Macroeconomic Data Sources and Variables](https://www.youtube.com/watch?v=at5IJnDqki4)    
 * [Finding and Downloading Macroeconomic Data](https://youtu.be/xju3qb_yRBo) 
 * [Macroeconomic Data Transformations](https://youtu.be/wNInxTwUzaY)         //[(MacroDataExample.R)](https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/MacroDataExample.R?attredirects=0) //[(Excel file)](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzd2hlZ2VydHl8Z3g6MmEwODZmZTZmZTVlMWNmNg)
