@@ -6,6 +6,7 @@ Here is the [syllabus](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYX
 Students who wish to review some introductory material can refer to the [macroeconomics videos](https://sites.google.com/site/swhegerty/macroeconomics/macroeconomics-videos) that I have recorded, as well as my [macro principles](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzd2hlZ2VydHl8Z3g6MjYwODYyYWZjNzdiMmZmZQ) lecture notes. I also have notes for [international macroeconomics](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzd2hlZ2VydHl8Z3g6NmY1NTIxMGRmMjg1OTU0MQ).
 
 I also have the R code for the book examples: [Japanese yen](https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/JPY.R?attredirects=0), [Madison employment](https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/MAD_EMP.R?attredirects=0), [Oil prices](https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/WTI.R?attredirects=0)
+
 This [file](https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/MacroDataAnalysis_ExcelExample.xlsx?attredirects=0) shows some formulas, summary statistics, and graphs in Excel.  
 If you are interested, I have linked to an [outside course](https://online.stat.psu.edu/stat510/) on traditional time series analysis.
 
