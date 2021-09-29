@@ -6,7 +6,7 @@
 
 #Pull pre-loaded data from website
 # (You should also be able to locate and download data independently)
-data<-read.csv("https://github.com/hegerty/ECON343/blob/main/WTI_Data.csv",header=TRUE)
+data<-read.csv("https://raw.githubusercontent.com/hegerty/ECON343/main/WTI_Data.csv",header=TRUE)
 
 #Generate main variables
 wti<-data[,2]
