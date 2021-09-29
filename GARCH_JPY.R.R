@@ -6,7 +6,7 @@
 ###########################################
 
 #Import data and check that it lines up and ends correctly
-data<-read.csv("https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/JPYUSD.csv")
+data<-read.csv("https://raw.githubusercontent.com/hegerty/ECON343/main/JPYUSD.csv")
 tail(data)
 
 #set "level" of variable and name it E
