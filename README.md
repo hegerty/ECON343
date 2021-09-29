@@ -12,17 +12,17 @@ This [file](https://github.com/hegerty/ECON343/blob/main/MacroDataAnalysis_Excel
 If you are interested, I have linked to an [outside course](https://online.stat.psu.edu/stat510/) on traditional time series analysis.
 
 There are four R examples (one on each theme), as well as a fifth that integrates the concepts: 
-                      [Real Variables](https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/Real_Variable_Notes.pdf?attredirects=0),
-                      [Prices](https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/Prices_Notes.pdf?attredirects=0),
-                      [Money](https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/Money_Notes.pdf?attredirects=0),
-                      [International](https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/Intl_Notes.pdf?attredirects=0),
-                      [Oil Prices and Volatility](https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/WTI_Notes.pdf?attredirects=0)
+                      [Real Variables](https://drive.google.com/file/u/1/d/1Fq1i7And8_HGxnmiGq81DalR_i2MHEyC/view?usp=drive_web,
+                      [Prices](https://drive.google.com/file/d/1OBG-P6PIw885Sw58OFgFUMwLk3BmtdJp/view?usp=drive_web,
+                      [Money](https://drive.google.com/file/d/1UKlptJXUwEsqgX_HUtx6W9_joGiiEBZo/view?usp=drive_web,
+                      [International](https://drive.google.com/file/u/1/d/1-omIBiDkYegvy8uwJNWigTsndG2eS8eU/view?usp=drive_web,
+                      [Oil Prices and Volatility](https://drive.google.com/file/d/1ktr3sbiJr3auxiixGNL35oQ1Pm2bhY4_/view?usp=drive_web
 
 **I made these videos for this course:**                   
 * [Macroeconomic Data Sources and Variables](https://www.youtube.com/watch?v=at5IJnDqki4)    
 * [Finding and Downloading Macroeconomic Data](https://youtu.be/xju3qb_yRBo) 
-* [Macroeconomic Data Transformations](https://youtu.be/wNInxTwUzaY)         //([MacroDataExample.R](https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/MacroDataExample.R?attredirects=0)) //([Excel file](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzd2hlZ2VydHl8Z3g6MmEwODZmZTZmZTVlMWNmNg))
-* [Basic Summary Statistics in Excel](https://youtu.be/X0AG-Pj9oRA)           //([Excel file](https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/ECON343_SummStats_Excel.xlsx?attredirects=0))
+* [Macroeconomic Data Transformations](https://youtu.be/wNInxTwUzaY)         //([MacroDataExample.R](https://github.com/hegerty/ECON343/blob/main/MacroDataExample.R)) //([Excel file](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzd2hlZ2VydHl8Z3g6MmEwODZmZTZmZTVlMWNmNg))
+* [Basic Summary Statistics in Excel](https://youtu.be/X0AG-Pj9oRA)           //([Excel file](https://github.com/hegerty/ECON343/blob/main/ECON343_SummStats_Excel.xlsx?attredirects=0))
 * [Writing a Macroeconomic Report](https://youtu.be/V2MMgGsPyuQ)              
 * [Graphics and Text in a Macroeconomic Report](https://youtu.be/DyQNlHSSVkQ)       
 * [Making a Time–Series Graph in Excel](https://youtu.be/HCLNEfy-jKk)                 //([Data](https://github.com/hegerty/ECON343/blob/main/ECON343_Lab1_Data.csv)) 
