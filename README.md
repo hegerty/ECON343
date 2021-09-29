@@ -36,5 +36,5 @@ These involve some more advanced topics // .R files are included
 * [Extracting Business Cycles and Calculating Cross-Correlations in R](https://youtu.be/bxNgHGeTOCM)                 //([R_Cycles.R](https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/R_Cycles.R?attredirects=0)) 
 * [Lags, Differences, and Autocorrelation in R](https://youtu.be/Et0WrJNhBRY)                //([Autoregressions_R.R](https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/Autoregressions_R.R?attredirects=0)) 
 * [Volatility Modeling: GARCH Processes in R](https://youtu.be/lKBgQ4MxM3Y)                                     //([GARCH_JPY.R](https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/GARCH_JPY.R?attredirects=0)) 
-* [Vector Autoregressions and Macroeconomic Analysis in R](https://youtu.be/mJFZySoNfM0)             //([CAVAR.R](https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/CAVAR.R?attredirects=0)) 
+* [Vector Autoregressions and Macroeconomic Analysis in R](https://youtu.be/mJFZySoNfM0)             //([CAVAR.R](https://github.com/hegerty/ECON343/blob/main/CAVAR.R) 
 
