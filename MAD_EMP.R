@@ -6,7 +6,7 @@
 #############################################
 
 #Pull pre-loaded data from website and set as time series
-data<-read.csv("https://github.com/hegerty/ECON343/blob/main/EMPL_Data.csv",header=TRUE)
+data<-read.csv("https://raw.githubusercontent.com/hegerty/ECON343/main/EMPL_Data.csv",header=TRUE)
 empl<-ts(data[,3],start=c(1990,1),frequency = 12)
 
 #Deasonalize with Census X13
