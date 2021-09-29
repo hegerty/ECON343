@@ -1,6 +1,6 @@
 #Change line 2 to YOUR folder location
 setwd("G:/")
-data<-read.csv("https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/ECON343_Lab1_Data.csv",header = TRUE)
+data<-read.csv("https://github.com/hegerty/ECON343/blob/main/ECON343_Lab1_Data.csv",header = TRUE)
 #Some of the info here is just to double-check as you go
 head(data)
 dim(data)
