@@ -3,7 +3,7 @@
 #import deseasonalized U.S. real GDP (FRED data); set as time series
 setwd("F:/")
 
-data<-read.csv("https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/USMXRY.csv",header=TRUE)
+data<-read.csv("https://raw.githubusercontent.com/hegerty/ECON343/main/USMXRY.csv",header=TRUE)
 head(data)
 dim(data)
 
