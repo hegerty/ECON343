@@ -6,7 +6,7 @@
 ###################################################
 
 #Pull pre-loaded data from website
-data<-read.csv("https://github.com/hegerty/ECON343/blob/main/JPY_Data.csv",header=TRUE)
+data<-read.csv("https://raw.githubusercontent.com/hegerty/ECON343/main/JPY_Data.csv",header=TRUE)
 #Generate main variables
 jpy<-data[,2]
 jpy<-ts(jpy,start = c(1970,1),frequency = 12)
