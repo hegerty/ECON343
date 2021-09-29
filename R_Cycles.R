@@ -3,7 +3,7 @@
 #Starts 1993Q1
 
 setwd("F:/")
-data<-read.csv("https://github.com/hegerty/ECON343/blob/main/USMXRY.csv",header = TRUE)
+data<-read.csv("https://raw.githubusercontent.com/hegerty/ECON343/main/USMXRY.csv",header = TRUE)
 head(data)
 tail(data)
 
