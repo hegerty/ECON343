@@ -12,11 +12,11 @@ This [file](https://github.com/hegerty/ECON343/blob/main/MacroDataAnalysis_Excel
 If you are interested, I have linked to an [outside course](https://online.stat.psu.edu/stat510/) on traditional time series analysis.
 
 There are four R examples (one on each theme), as well as a fifth that integrates the concepts: 
-                      [Real Variables](https://drive.google.com/file/u/1/d/1Fq1i7And8_HGxnmiGq81DalR_i2MHEyC/view?usp=drive_web,
-                      [Prices](https://drive.google.com/file/d/1OBG-P6PIw885Sw58OFgFUMwLk3BmtdJp/view?usp=drive_web,
-                      [Money](https://drive.google.com/file/d/1UKlptJXUwEsqgX_HUtx6W9_joGiiEBZo/view?usp=drive_web,
-                      [International](https://drive.google.com/file/u/1/d/1-omIBiDkYegvy8uwJNWigTsndG2eS8eU/view?usp=drive_web,
-                      [Oil Prices and Volatility](https://drive.google.com/file/d/1ktr3sbiJr3auxiixGNL35oQ1Pm2bhY4_/view?usp=drive_web
+                      [Real Variables](https://drive.google.com/file/u/1/d/1Fq1i7And8_HGxnmiGq81DalR_i2MHEyC/view?usp=drive_web),
+                      [Prices](https://drive.google.com/file/d/1OBG-P6PIw885Sw58OFgFUMwLk3BmtdJp/view?usp=drive_web),
+                      [Money](https://drive.google.com/file/d/1UKlptJXUwEsqgX_HUtx6W9_joGiiEBZo/view?usp=drive_web),
+                      [International](https://drive.google.com/file/u/1/d/1-omIBiDkYegvy8uwJNWigTsndG2eS8eU/view?usp=drive_web),
+                      [Oil Prices and Volatility](https://drive.google.com/file/d/1ktr3sbiJr3auxiixGNL35oQ1Pm2bhY4_/view?usp=drive_web)
 
 **I made these videos for this course:**                   
 * [Macroeconomic Data Sources and Variables](https://www.youtube.com/watch?v=at5IJnDqki4)    
