@@ -18,7 +18,7 @@ lines(lnx,lty=2)
 
 dev.off()
 #Now pull data, transform and plot
-data<-read.csv("https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/MacroDataExample.csv",header=TRUE)
+data<-read.csv("https://raw.githubusercontent.com/hegerty/ECON343/main/MacroDataExample.csv",header=TRUE)
 head(data)
 
 #First use trade data
