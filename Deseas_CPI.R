@@ -4,7 +4,7 @@
 
 #Move the data file to your drive and CHANGE the letter F if you need to
 setwd("F:/") #Now I made it a direct upload
-data<-read.csv("https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/PPPData.csv")
+data<-read.csv("https://github.com/hegerty/ECON343/blob/main/PPPData.csv")
 #Check your data first!
 head(data)
 
