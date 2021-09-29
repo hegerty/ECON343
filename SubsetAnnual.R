@@ -4,7 +4,7 @@
 ###############################################################
 
 #Open data and create data series (Real WTI oil prices)
-data<-read.csv("https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/WTI_Data.csv",header=TRUE)
+data<-read.csv("https://github.com/hegerty/ECON343/blob/main/WTI_Data.csv",header=TRUE)
 head(data)
 data$RWTI=100*data$WTI/data$PPI
 #Examine data: 12 months per year
