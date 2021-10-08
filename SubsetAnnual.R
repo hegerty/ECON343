@@ -37,6 +37,7 @@ ts.plot(series)
 ts.plot(avgrwti)
 
 #make the years, manually
+# The easiest way is just 1980:2016
 years<-rep(1979+1:length(avgrwti))
 years
 #or this way
