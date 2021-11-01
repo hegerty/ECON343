@@ -2,8 +2,8 @@
 **Economics 343, “Macroeconomic Data Analysis,”** was last offered during Spring 2021 at NEIU. Here are the Homework files and Solutions.
 You can get the course book on [Scribd](https://www.scribd.com/document/459205554/Macroeconomic-Data-Analysis-Revised-2020).
 
-Here is the [syllabus](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzd2hlZ2VydHl8Z3g6NjMwYjY2MTQxYTRkOGY1OQ) for the eight-week course.
-Students who wish to review some introductory material can refer to the [macroeconomics videos](https://sites.google.com/site/swhegerty/macroeconomics/macroeconomics-videos) that I have recorded, as well as my [macro principles](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzd2hlZ2VydHl8Z3g6MjYwODYyYWZjNzdiMmZmZQ) lecture notes. I also have notes for [international macroeconomics](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzd2hlZ2VydHl8Z3g6NmY1NTIxMGRmMjg1OTU0MQ).
+Here is the [syllabus](https://github.com/hegerty/ECON343/blob/main/ECON343_Syl_S21.pdf) for the eight-week course.
+Students who wish to review some introductory material can refer to the [macroeconomics videos](https://sites.google.com/site/swhegerty/macroeconomics/macroeconomics-videos) that I have recorded, as well as my [macro principles](https://github.com/hegerty/ECON343/blob/main/Principles_of_Macro_Notes_Hegerty_2020.pdf) lecture notes. I also have notes for [international macroeconomics](https://github.com/hegerty/ECON343/blob/main/International_Macro_Notes_Hegerty_2020.pdf).
 
 I also have the R code for the book examples: [Japanese yen](https://github.com/hegerty/ECON343/blob/main/JPY.R?
 ), [Madison employment](https://github.com/hegerty/ECON343/blob/main/MAD_EMP.R), [Oil prices](https://github.com/hegerty/ECON343/blob/main/WTI.R)
