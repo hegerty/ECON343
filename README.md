@@ -15,8 +15,9 @@ There are four R examples (one on each theme), as well as a fifth that integrate
                       [Real Variables](https://github.com/hegerty/ECON343/blob/main/Real_Variable_Notes.pdf),
                       [Prices](https://github.com/hegerty/ECON343/blob/main/Prices_Notes.pdf),
                       [Money](https://github.com/hegerty/ECON343/blob/main/Money_Notes.pdf),
-                      [International](https://github.com/hegerty/ECON343/blob/main/Intl_Notes.pdf),
+                      [International](https://github.com/hegerty/ECON343/blob/main/Intl_Notes.pdf), and 
                       [Oil Prices and Volatility](https://github.com/hegerty/ECON343/blob/main/WTI_Notes.pdf)
+(The data files have been moved and are now located on this site, so the "read.csv" lines might need to be updated with the new locations.)                      
 
 **I made these videos for this course:**                   
 * [Macroeconomic Data Sources and Variables](https://www.youtube.com/watch?v=at5IJnDqki4)    
