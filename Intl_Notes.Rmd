@@ -2,7 +2,8 @@
 title: "International Variables: Example"
 author: "Scott W. Hegerty"
 date: "ECON 343, Spring 2023"
-output: rmarkdown::github_document
+output: html_document
+  keep_md: true
 ---
 
 ```{r setup, include=FALSE}
