@@ -1,0 +1,88 @@
+---
+title: "International Variables: Example"
+author: "Scott W. Hegerty"
+date: "ECON 343, Spring 2023"
+output: rmarkdown::github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Here, we use data from the Bureau of Economic Analysis to examine economic openness and movements in goods and capital. We create new variables, including the trade balance and net capital flows. Each can be depicted in several different ways. 
+
+### Procedure
+First, we open the data from the course website:
+```{r}
+data<-read.csv("https://raw.githubusercontent.com/hegerty/ECON343/main/343_BOP_DATA.csv",header=TRUE)
+head(data,2)
+
+```
+
+We will have to rename the variables. Make sure to keep them concise and and informative.
+
+We can examine the original variable names to guide us as we make new names:
+```{r}
+colnames(data)
+colnames(data)<-c("YEAR","Y","X","M","KOUT","FDIOUT","PORTOUT","KIN","FDIIN","PORTIN")
+head(data)
+```
+
+
+
+We can also drop the first column. It has four observations per year, but three are empty:
+```{r}
+data<-data[,-1]
+```
+
+
+Now, we create new variables: The trade balance and its share of GDP; net capital flows; ratios of inflows to outflows; and an "openness measure." We also measure FDI and portfolio investment liabilities as shares of GDP. These all have different uses and are measured in different ways. Balances are in dollars (or other currency), shares are measured as percentages, and ratios have no units and equal 1 if the numerator and denominator are balanced. These new variables areadded directly to the set of existing variables:
+```{r}
+data$TB<-data$X-data$M
+data$TBSHARE<-100*data$TB/data$Y
+data$TBRATIO<-data$X/data$M
+data$TRADEOPEN<-(data$X+data$M)/data$Y
+data$KA<-data$KOUT-data$KIN
+data$FINOPEN<-(data$KIN+data$KOUT)/data$Y
+data$FDIINSHARE<-data$FDIIN/data$Y
+data$PORTINSHARE<-data$PORTIN/data$Y
+head(data)
+```
+
+Next we set these variables as a time series:
+```{r}
+datats<-ts(data,start=c(1960,1),frequency = 4)
+head(datats)
+```
+There are too many variables to plot at once, so we focus on the new ones.
+```{r}
+dim(datats)
+colnames(datats)
+```
+
+
+```{r}
+plot(datats[,10:17],main="")
+
+```
+
+We could make it a little more visually appealing:
+```{r}
+par(mfrow=c(2,4))
+for(i in 10:17){
+plot(datats[,i],xlab="",ylab="",main=colnames(datats)[i])
+}
+par(mfrow=c(1,1))
+```
+
+Many of these move in the same direction and others in opposite directions, as would be expected given the Balance of Payments equations.
+
+    
+We can focus on the TB ratio in column 11: This is $(X-M)/Y$. 
+```{r tb, fig.height=4}
+plot(datats[,11],xlab="",ylab="",main = "U.S. Trade Balance (X-M), as a share of GDP",lwd=2)
+abline(h=1,lty=2,lwd=1)
+```
+
+The U.S. trade deficit has gotten wider in recent decades, but in the aftermath of the 2008 recession, the gap narrowed. This would be expected, since a drop in income should result in fewer imports, all else equal.
+
