@@ -34,7 +34,7 @@ These involve some more advanced topics   |   .R files are included
 > [Introduction to Time Series in R](https://www.youtube.com/watch?v=s3G1lDaNjzg&t=9s)  |  ([343_Lab1_R.R](https://github.com/hegerty/ECON343/blob/main/343_Lab1_R.R))   
 > [Application: Testing PPP in R](https://youtu.be/vbzOBzOZevg)  |  [GitHub Page](https://github.com/hegerty/PPP_Example)  
 > [Creating Annual Averages from Monthly Data Using an R Loop](https://youtu.be/3FrJOpUtJjs)  |  ([SubsetAnnual.R](https://github.com/hegerty/ECON343/blob/main/SubsetAnnual.R))  
-> [Deseasonalizing Time Series in R](https://www.youtube.com/watch?v=BOeIYOV8uIs&t=2s)  |  ([Deseas_CPI.R](https://github.com/hegerty/ECON343/blob/main/Deseas_CPI.R)) 
+> [Deseasonalizing Time Series in R](https://www.youtube.com/watch?v=BOeIYOV8uIs&t=2s)  |  ([Deseas_CPI.R](https://github.com/hegerty/ECON343/blob/main/Deseas_CPI.R))   
 > [Extracting Business Cycles and Calculating Cross-Correlations in R](https://youtu.be/bxNgHGeTOCM)  |  ([R_Cycles.R](https://github.com/hegerty/ECON343/blob/main/R_Cycles.R?0))   
 > [Lags, Differences, and Autocorrelation in R](https://youtu.be/Et0WrJNhBRY)  |  ([Autoregressions_R.R](https://github.com/hegerty/ECON343/blob/main/Autoregressions_R.R?=0))   
 > [Volatility Modeling: GARCH Processes in R](https://youtu.be/lKBgQ4MxM3Y)  |  ([GARCH_JPY.R](https://github.com/hegerty/ECON343/blob/main/GARCH_JPY.R))  
