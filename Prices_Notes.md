@@ -58,11 +58,11 @@ starters:
 ts.plot(datats)
 ```
 
-![](Price_Notes_files/figure-gfm/ts1-1.png)<!-- -->
+![](Prices_Notes_files/figure-gfm/ts1-1.png)<!-- -->
 
 This one is more customized, however.
 
-![](Price_Notes_files/figure-gfm/levels-1.png)<!-- -->
+![](Prices_Notes_files/figure-gfm/levels-1.png)<!-- -->
 
 Now, we can take 4-quarter inflation rates for each variable:
 
@@ -87,7 +87,7 @@ colnames(perch)<-colnames(datats)
 
 Here is a plot of the new series:
 
-![](Price_Notes_files/figure-gfm/inf-1.png)<!-- -->
+![](Prices_Notes_files/figure-gfm/inf-1.png)<!-- -->
 
 Copper prices appear to be much more volatile than either exchange rate.
 We can compare the standard deviations of each series:
