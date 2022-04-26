@@ -11,13 +11,13 @@ I also have the R code for the book examples: [Japanese yen](https://github.com/
 This [file](https://github.com/hegerty/ECON343/blob/main/MacroDataAnalysis_ExcelExample.xlsx) shows some formulas, summary statistics, and graphs in Excel.  
 If you are interested, I have linked to an [outside course](https://online.stat.psu.edu/stat510/) on traditional time series analysis.
 
-There are four R examples (one on each theme), as well as a fifth that integrates the concepts:  
-                      [Real Variables](https://github.com/hegerty/ECON343/blob/main/Real_Variable_Notes.pdf),
-                      [Prices](https://github.com/hegerty/ECON343/blob/main/Prices_Notes.pdf),
-                      [Money](https://github.com/hegerty/ECON343/blob/main/Money_Notes.pdf),
+There are four R examples (one on each theme), as well as a fifth that integrates the concepts:    
+                      [Real Variables](https://github.com/hegerty/ECON343/blob/main/Real_Variable_Notes.md),  
+                      [Prices](https://github.com/hegerty/ECON343/blob/main/Prices_Notes.md),  
+                      [Money](https://github.com/hegerty/ECON343/blob/main/Money_Notes.md),  
                       [International](https://github.com/hegerty/ECON343/blob/main/Intl_Notes.md), and  
-                      [Oil Prices and Volatility](https://github.com/hegerty/ECON343/blob/main/WTI_Notes.pdf)
-(The data files have been moved and are now located on this site, so the "read.csv" lines might need to be updated with the new locations.)                      
+                      [Oil Prices and Volatility](https://github.com/hegerty/ECON343/blob/main/WTI_Notes.md)
+              
 
 **I made these videos for this course:**                   
 * [Macroeconomic Data Sources and Variables](https://www.youtube.com/watch?v=at5IJnDqki4)    
