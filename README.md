@@ -22,7 +22,7 @@ If you are interested, I have linked to an [outside course](https://online.stat.
 **I made these videos for this course:**                   
 > [Macroeconomic Data Sources and Variables](https://www.youtube.com/watch?v=at5IJnDqki4)    
 > [Finding and Downloading Macroeconomic Data](https://youtu.be/xju3qb_yRBo) 
-> [Macroeconomic Data Transformations](https://youtu.be/wNInxTwUzaY)//([MacroDataExample.R](https://github.com/hegerty/ECON343/blob/main/MacroDataExample.R)) //([Excel file](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzd2hlZ2VydHl8Z3g6MmEwODZmZTZmZTVlMWNmNg))
+> [Macroeconomic Data Transformations](https://youtu.be/wNInxTwUzaY)  |  ([MacroDataExample.R](https://github.com/hegerty/ECON343/blob/main/MacroDataExample.R))   |  ([Excel file](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzd2hlZ2VydHl8Z3g6MmEwODZmZTZmZTVlMWNmNg))  
 > [Basic Summary Statistics in Excel](https://youtu.be/X0AG-Pj9oRA)  |  ([Excel file](https://github.com/hegerty/ECON343/blob/main/ECON343_SummStats_Excel.xlsx?attredirects=0))  
 > [Writing a Macroeconomic Report](https://youtu.be/V2MMgGsPyuQ)              
 > [Graphics and Text in a Macroeconomic Report](https://youtu.be/DyQNlHSSVkQ)       
