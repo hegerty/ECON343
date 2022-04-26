@@ -1,5 +1,5 @@
-# ECON343
-**Economics 343, “Macroeconomic Data Analysis,”** was last offered during Spring 2021 at NEIU. Here are the Homework files and Solutions.
+# ECON343: Macroeconomic Data Analysis
+**Economics 343** was last offered during Spring 2021 at NEIU. Here are the Homework files and Solutions. It will next be offered in Spring 2023.
 You can get the course book on [Scribd](https://www.scribd.com/document/459205554/Macroeconomic-Data-Analysis-Revised-2020).
 
 Here is the [syllabus](https://github.com/hegerty/ECON343/blob/main/ECON343_Syl_S21.pdf) for the eight-week course.
@@ -32,7 +32,7 @@ If you are interested, I have linked to an [outside course](https://online.stat.
 These involve some more advanced topics&nbsp;&nbsp; &nbsp; &nbsp;(.R files are included)  
 > [Downloading Free Software: RStudio and gretl](https://www.youtube.com/watch?v=3jzJ1RzazxM)  
 > [Introduction to Time Series in R](https://www.youtube.com/watch?v=s3G1lDaNjzg&t=9s)&nbsp;&nbsp; &nbsp; &nbsp;([343_Lab1_R.R](https://github.com/hegerty/ECON343/blob/main/343_Lab1_R.R))   
-> [Application: Testing PPP in R](https://youtu.be/vbzOBzOZevg)&nbsp;&nbsp; &nbsp; &nbsp;[GitHub Page](https://github.com/hegerty/PPP_Example)  
+> [Application: Testing PPP in R](https://youtu.be/vbzOBzOZevg)&nbsp;&nbsp; &nbsp; &nbsp;([GitHub Page](https://github.com/hegerty/PPP_Example))  
 > [Creating Annual Averages from Monthly Data Using an R Loop](https://youtu.be/3FrJOpUtJjs)&nbsp;&nbsp; &nbsp; &nbsp;([SubsetAnnual.R](https://github.com/hegerty/ECON343/blob/main/SubsetAnnual.R))  
 > [Deseasonalizing Time Series in R](https://www.youtube.com/watch?v=BOeIYOV8uIs&t=2s)&nbsp;&nbsp; &nbsp; &nbsp;([Deseas_CPI.R](https://github.com/hegerty/ECON343/blob/main/Deseas_CPI.R))   
 > [Extracting Business Cycles and Calculating Cross-Correlations in R](https://youtu.be/bxNgHGeTOCM)&nbsp;&nbsp; &nbsp; &nbsp;([R_Cycles.R](https://github.com/hegerty/ECON343/blob/main/R_Cycles.R?0))   
