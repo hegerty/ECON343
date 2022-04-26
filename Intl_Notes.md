@@ -160,7 +160,7 @@ colnames(datats)
 plot(datats[,10:17],main="")
 ```
 
-![](Intl_Notes_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
+![](Intl_Notes_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
 
 We could make it a little more visually appealing:
 
@@ -171,7 +171,7 @@ plot(datats[,i],xlab="",ylab="",main=colnames(datats)[i])
 }
 ```
 
-![](Intl_Notes_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->
+![](Intl_Notes_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
 
 ``` r
 par(mfrow=c(1,1))
