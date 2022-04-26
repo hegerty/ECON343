@@ -26,7 +26,7 @@ If you are interested, I have linked to an [outside course](https://online.stat.
 > [Basic Summary Statistics in Excel](https://youtu.be/X0AG-Pj9oRA)  |  ([Excel file](https://github.com/hegerty/ECON343/blob/main/ECON343_SummStats_Excel.xlsx?attredirects=0))  
 > [Writing a Macroeconomic Report](https://youtu.be/V2MMgGsPyuQ)              
 > [Graphics and Text in a Macroeconomic Report](https://youtu.be/DyQNlHSSVkQ)       
-> [Making a Time–Series Graph in Excel](https://youtu.be/HCLNEfy-jKk)  ||  ([Data](https://github.com/hegerty/ECON343/blob/main/ECON343_Lab1_Data.csv)) 
+> [Making a Time–Series Graph in Excel](https://youtu.be/HCLNEfy-jKk)  |  ([Data](https://github.com/hegerty/ECON343/blob/main/ECON343_Lab1_Data.csv))   
 > [Making a (Regression) Table in Excel](https://youtu.be/1_X5DsZiBAI)                                                                      
 
 These involve some more advanced topics   |   .R files are included  
