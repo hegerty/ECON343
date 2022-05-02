@@ -36,7 +36,8 @@ These involve some more advanced topics&nbsp;&nbsp; &nbsp; &nbsp;(.R files are i
 > [Creating Annual Averages from Monthly Data Using an R Loop](https://youtu.be/3FrJOpUtJjs)&nbsp;&nbsp; &nbsp; &nbsp;([SubsetAnnual.R](https://github.com/hegerty/ECON343/blob/main/SubsetAnnual.R))  
 > [Deseasonalizing Time Series in R](https://www.youtube.com/watch?v=BOeIYOV8uIs&t=2s)&nbsp;&nbsp; &nbsp; &nbsp;([Deseas_CPI.R](https://github.com/hegerty/ECON343/blob/main/Deseas_CPI.R))   
 > [Extracting Business Cycles and Calculating Cross-Correlations in R](https://youtu.be/bxNgHGeTOCM)&nbsp;&nbsp; &nbsp; &nbsp;([R_Cycles.R](https://github.com/hegerty/ECON343/blob/main/R_Cycles.R?0))   
-> [Lags, Differences, and Autocorrelation in R](https://youtu.be/Et0WrJNhBRY)&nbsp;&nbsp; &nbsp; &nbsp;([Autoregressions_R.R](https://github.com/hegerty/ECON343/blob/main/Autoregressions_R.R?=0))   
-> [Volatility Modeling: GARCH Processes in R](https://youtu.be/lKBgQ4MxM3Y)&nbsp;&nbsp; &nbsp; &nbsp;([GARCH_JPY.R](https://github.com/hegerty/ECON343/blob/main/GARCH_JPY.R))  
+> [Lags, Differences, and Autocorrelation in R](https://youtu.be/Et0WrJNhBRY)&nbsp;&nbsp; &nbsp; &nbsp; ([Tutorial](https://github.com/hegerty/ECON343/blob/main/Autoregressions_R.md))&nbsp;&nbsp; &nbsp; &nbsp;
+([Autoregressions_R.R](https://github.com/hegerty/ECON343/blob/main/Autoregressions_R.R?=0))   
+> [Volatility Modeling: GARCH Processes in R](https://youtu.be/lKBgQ4MxM3Y)&nbsp;&nbsp; &nbsp; &nbsp;([Tutorial](https://github.com/hegerty/ECON343/blob/main/GARCH_JPY.md))&nbsp; &nbsp; &nbsp; &nbsp;([GARCH_JPY.R](https://github.com/hegerty/ECON343/blob/main/GARCH_JPY.R))  
 > [Vector Autoregressions and Macroeconomic Analysis in R](https://youtu.be/mJFZySoNfM0)&nbsp;&nbsp; &nbsp; &nbsp;([CAVAR.R](https://github.com/hegerty/ECON343/blob/main/CAVAR.R))  
 
