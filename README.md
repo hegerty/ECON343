@@ -18,6 +18,9 @@ If you are interested, I have linked to an [outside course](https://online.stat.
 > [International](https://github.com/hegerty/ECON343/blob/main/Intl_Notes.md)  
 > [Oil Prices and Volatility](https://github.com/hegerty/ECON343/blob/main/WTI_Example.md)
               
+***Here are two additional R examples (on some basic time-series concepts). The video links and .R files are below:***      
+> [Lags, Differences, and Autocorrelation in R](https://github.com/hegerty/ECON343/blob/main/Autoregressions_R.md)  
+> [Volatility Modeling: GARCH Processes in R](https://github.com/hegerty/ECON343/blob/main/GARCH_JPY.md)
 
 **I made these videos for this course:**                   
 > [Macroeconomic Data Sources and Variables](https://www.youtube.com/watch?v=at5IJnDqki4)    
