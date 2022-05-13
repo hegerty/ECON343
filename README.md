@@ -32,7 +32,7 @@ If you are interested, I have linked to an [outside course](https://online.stat.
 > [Making a Time–Series Graph in Excel](https://youtu.be/HCLNEfy-jKk)&nbsp;&nbsp; &nbsp; &nbsp;([Data](https://github.com/hegerty/ECON343/blob/main/ECON343_Lab1_Data.csv))   
 > [Making a (Regression) Table in Excel](https://youtu.be/1_X5DsZiBAI)                                                                      
 
-These involve some more advanced topics&nbsp;&nbsp; &nbsp; &nbsp;(.R files are included)  
+These involve some more advanced topics:&nbsp;&nbsp; &nbsp; &nbsp;(.R files are included)  
 > [Downloading Free Software: RStudio and gretl](https://www.youtube.com/watch?v=3jzJ1RzazxM)  
 > [Introduction to Time Series in R](https://www.youtube.com/watch?v=s3G1lDaNjzg&t=9s)&nbsp;&nbsp; &nbsp; &nbsp;([343_Lab1_R.R](https://github.com/hegerty/ECON343/blob/main/343_Lab1_R.R))   
 > [Application: Testing PPP in R](https://youtu.be/vbzOBzOZevg)&nbsp;&nbsp; &nbsp; &nbsp;([GitHub Page](https://github.com/hegerty/PPP_Example))  
