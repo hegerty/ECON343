@@ -13,7 +13,7 @@ One additional exercise is to analyze the equation of exchange,
 price level (*P*) and real output (*Y*). The fourth variable *V* is
 velocity, or the number of times each unit of currency is spent. Money
 is spent in sufficient quantities to cover nominal output. Here, we
-simply solve for *V* = *P**Y*/*M*<sub>*s*</sub>. Classical theory
+simply solve for *V* = *PY*/*M*<sub>*s*</sub>. Classical theory
 assumes Velocity to be stable; we can see whether this is indeed the
 case. We can also calculate the correlation between money supply growth
 and inflation.
