@@ -9,7 +9,7 @@ calculate growth rates, before calculating some summary statistics and
 correlations, and plotting the variables.
 
 One additional exercise is to analyze the equation of exchange,
-*M*<sub>*s*</sub>*V* = *P**Y*, which connects the money supply to the
+*M*<sub>*s*</sub>*V* = *PY*, which connects the money supply to the
 price level (*P*) and real output (*Y*). The fourth variable *V* is
 velocity, or the number of times each unit of currency is spent. Money
 is spent in sufficient quantities to cover nominal output. Here, we
