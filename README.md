@@ -2,7 +2,7 @@
 **Economics 343** was last offered during Spring 2021 at NEIU. It will next be offered in Spring 2023.
 
 [Course Book](https://www.scribd.com/document/459205554/Macroeconomic-Data-Analysis-Revised-2020) (on Scribd)  
-[Syllabus](https://github.com/hegerty/ECON343/blob/main/ECON343_Syl_S21.pdf) (8-week, Spring 2021)  
+[Syllabus](https://drive.google.com/file/d/1bGvWaX1L8lWSrLNSYyXcVn7X9X0ncco0/view?usp=sharing) (8-week, Spring 2023)  
 
 Some review material:
 >[Macroeconomics videos](https://sites.google.com/site/swhegerty/macroeconomics/macroeconomics-videos) (ECON 215)  
