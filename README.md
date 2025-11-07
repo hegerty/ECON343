@@ -1,7 +1,7 @@
 # ECON343: Macroeconomic Data Analysis
 **Economics 343** was last offered during Spring 2023 at NEIU. It will next be offered in Spring 2026 (first half).
 
-[Course Book](https://www.scribd.com/document/459205554/Macroeconomic-Data-Analysis-Revised-2020) (on Scribd)  
+[Course Book](https://drive.google.com/file/d/10-Mvz5SVTGmycBeuEXIzxKh0nEF8Ig0p/view?usp=sharing) (on Scribd)  
 [Syllabus](https://drive.google.com/file/d/1bGvWaX1L8lWSrLNSYyXcVn7X9X0ncco0/view?usp=sharing) (8-week, Spring 2023)  
 
 Some review material:
