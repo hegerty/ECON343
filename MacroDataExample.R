@@ -3,7 +3,7 @@
 #Macroeconomic Data Transformations: Examples
 ####################
 #
-##Start with logs and exponets
+##Start with logs and exponents
 #Integers 1-15, plot and compare
 x<-c(1:15)
 expx<-exp(x)
@@ -76,4 +76,5 @@ inf12<-100*(cpi-lag(cpi,-12))/lag(cpi,-12)
 head(inf12)            
 ts.plot(12*inf1,inf12,lty=c(2,1),col=c("black","dark grey"),lwd=c(1,6),xlab="",main="Monthly vs. Annual Inflation Rates")
 legend("topleft",legend=c("1month","12month"),lty=c(1,1),col=c("black","dark grey"),lwd=c(1,6))
+
 
