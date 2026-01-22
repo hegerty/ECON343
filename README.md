@@ -34,7 +34,7 @@ Here is an [outside course](https://online.stat.psu.edu/stat510/) on traditional
 > [Macroeconomic Data Sources and Variables](https://www.youtube.com/watch?v=at5IJnDqki4)    
 > [Graphing Macroeconomic Data Using FRED](https://youtu.be/tu90OCLLLHs)   
 > [Finding and Downloading Macroeconomic Data](https://youtu.be/xju3qb_yRBo)   
-> [Macroeconomic Data Transformations](https://youtu.be/wNInxTwUzaY)&nbsp;&nbsp; &nbsp; &nbsp;([MacroDataExample.R](https://github.com/hegerty/ECON343/blob/main/MacroDataExample.R))&nbsp;&nbsp; &nbsp; &nbsp;([Excel file](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzd2hlZ2VydHl8Z3g6MmEwODZmZTZmZTVlMWNmNg))  
+> [Macroeconomic Data Transformations](https://youtu.be/wNInxTwUzaY)&nbsp;&nbsp; &nbsp; &nbsp;([MacroDataExample.R](https://github.com/hegerty/ECON343/blob/main/MacroDataExample.R))&nbsp;&nbsp; &nbsp; &nbsp;([Excel file](https://github.com/hegerty/ECON343/blob/main/MacroDataAnalysis_ExcelExample.xlsx))
 > [Basic Summary Statistics in Excel](https://youtu.be/X0AG-Pj9oRA)&nbsp;&nbsp; &nbsp; &nbsp;([Excel file](https://github.com/hegerty/ECON343/blob/main/ECON343_SummStats_Excel.xlsx?attredirects=0))  
 > [Writing a Macroeconomic Report](https://youtu.be/V2MMgGsPyuQ)              
 > [Graphics and Text in a Macroeconomic Report](https://youtu.be/DyQNlHSSVkQ)       
